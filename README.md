@@ -15,4 +15,4 @@ Good luck!
 
 # Tes Coverage
 
-![Screenshot (536).png](<{https://github.com/catraaa/Gold-Challange-7/blob/main/Screenshot%20(537).png}>)
+![Screenshot (536).png]({https://github.com/catraaa/Gold-Challange-7/blob/main/Screenshot%20(537).png})
