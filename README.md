@@ -10,9 +10,9 @@ Tugas kalian disini adalah:
 Good luck!
 
 # LINK DEPLOYMENT
+
 #
 
 # Tes Coverage
 
-![](https://github.com/rissuga/ch7-unit-testing-risairma/assets/72052154/4ea902b9-1977-44d1-8b23-2ef04df69dc6)
-
+![Screenshot (536).png]( {link gambar} )
